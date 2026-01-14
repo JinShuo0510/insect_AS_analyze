@@ -6,7 +6,6 @@
 本项目整理了昆虫可变剪接(Alternative Splicing)分析的所有脚本,包括差异表达分析、DevAS识别、序列分析和数据可视化。
 
 **脚本总数**: 179个  
-**来源**: jupyter-notebook/ 和 rstudio/work_dir/
 
 ---
 
@@ -30,7 +29,7 @@ docker run --rm -v /your/data:/data \
     -m /data/samples.csv -o /data/results
 ```
 
-详细使用文档请参考: [nonDEG_DET_pipeline](https://github.com/yourusername/nonDEG_DET_pipeline)
+详细使用文档请参考: [nonDEG_DET_pipeline](https://github.com/JinShuo0510/nonDEG_DET_pipeline)
 
 ---
 
@@ -172,7 +171,6 @@ pip install pandas numpy scipy statsmodels
 ## 文档说明
 
 - **README.md** (本文件): 项目总览
-- **QUICK_START.md**: 详细使用指南
 - **SCRIPT_LIST.txt**: 完整脚本清单
 - 各子目录README.md: 模块详细说明
 

@@ -168,14 +168,6 @@ pip install pandas numpy scipy statsmodels
 
 ---
 
-## 文档说明
-
-- **README.md** (本文件): 项目总览
-- **SCRIPT_LIST.txt**: 完整脚本清单
-- 各子目录README.md: 模块详细说明
-
----
 
 **版本**: v1.0  
 **日期**: 2026-01-14
->>>>>>> initial commit

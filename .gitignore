@@ -1,0 +1,18 @@
+# Python
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user
+
+# 临时文件
+*.log
+*.tmp
+*~
+
+# 输出结果(根据需要调整)
+# *.pdf
+# *.png
